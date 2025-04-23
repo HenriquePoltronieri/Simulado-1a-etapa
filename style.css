@@ -24,7 +24,9 @@ table{width: 100%;
 #partLogo{width: 18%; text-align: right;}
 
 #istock1{vertical-align: top;}
-.istock1{text-align: center;}
+.istock1{text-align: center;
+        background-color
+        }
 #istock1img{width: 78%;}
 
 .istock2{text-align: center;}
