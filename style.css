@@ -16,7 +16,9 @@ table{width: 100%;
 #td5{width: 15%;}
 #td6{width: 20%;}
 #td7{width: 5%;}
-#td8{width: 25%;}
+#td8{width: 25%;
+    background-color: purple;
+}
 
 .txtLoren{text-align: justify;
     padding: 4vh;}
@@ -25,7 +27,7 @@ table{width: 100%;
 
 #istock1{vertical-align: top;}
 .istock1{text-align: center;
-        background-color
+        background-color: black;
         }
 #istock1img{width: 78%;}
 
