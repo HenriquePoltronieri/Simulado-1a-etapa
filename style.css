@@ -31,5 +31,7 @@ table{width: 100%;
         }
 #istock1img{width: 78%;}
 
-.istock2{text-align: center;}
+.istock2{text-align: center;
+    background-color: black;
+}
 #istock2img{width: 78%;}
